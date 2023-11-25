@@ -9,7 +9,7 @@ public class Attack implements Attackable{
         this.intensity = intensity;
     }
     public Attack(){
-        this.name = "Default Attack  ";
+        this.name = "Default Attack";
         this.intensity = 5;
     }
 
